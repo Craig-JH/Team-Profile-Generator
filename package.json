@@ -1,0 +1,33 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "An inquirer application that creates an HTML page to show the members of a team.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amklenk/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "jest",
+    "inquirer",
+    "CLI"
+  ],
+  "author": "Craig Hyman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amklenk/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/amklenk/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
