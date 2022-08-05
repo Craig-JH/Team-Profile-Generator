@@ -69,7 +69,7 @@ Please fork and clone the repository and use a pull request to add or make chang
 
 Please direct any questions to misccorp@yahoo.com. To see more projects, visit the link below for Craig-JH respository:
 
-- [GitHub Repository](https://github.com/Craig-JH)
+- [GitHub Repository](https://github.com/Craig-JH/Team-Profile-Generator)
 
 # Team-Profile-Generator
 
