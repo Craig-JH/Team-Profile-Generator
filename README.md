@@ -44,14 +44,14 @@ The .gitignore file is set up in the root directory along with the index.js file
 
 The following images are project screenshots.
 
-CLI App
-![CLI image](./images/commandline.png)
+Example of failed test
+![Failed Test Image](./images/Employee test_FAIL.png)
 
-Example of a Generated HTML File
-![Example HTML File](./images/HTML.png)
+Example of passes test
+![Passed Test Image](./images/Employee test_PASS.png)
 
 Screenshot of the HTML File Opened in the Browser
-![Example Deployed HTML](./images/site.png)
+![Example Deployed HTML](./images/siteScreenshot HTML.png)
 
 The application is navigable via opening the index.js file in an integrated terminal. All of the user data is entered using Inquirer prompts. The generated files will appear in the dist folder.
 
