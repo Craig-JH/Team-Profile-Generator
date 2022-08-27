@@ -6,10 +6,10 @@
 
 The Team Profile Generator was created to display a team's basic information for a manager so that they have quick access to the employees' id numbers, email addresses, and GitHub profiles.
 
-The following were the requirements of the project:
+The following are the requirements of the project:
 
 - When the user is prompted to enter their team members' information and their information via the command line, an HTML file is generated that displays a nicely formatted team roster based on user input.
-- When the user clicks on the email address in the HTML, their default email program opens and populates the TO field of the email with the address.
+- When the user clicks on the email address in the HTML, their default email program opens and populates the "TO" field of the email with the address.
 - When the user clicks on the GitHub username, the employee's GitHub profile opens in a new tab.
 - When the user starts the application, they are prompted to enter their name, employee ID, email address, and office number as the team manager.
 - When the user is presented with a menu with the option to add an engineer or an intern or to finish building my team, when selecting the engineer option, the user is prompted to enter the engineer’s name, ID, email, and GitHub username, and they are taken back to the menu.
@@ -37,21 +37,21 @@ The .gitignore file is set up in the root directory along with the index.js file
 
 ## Links
 
-- [GitHub Repository](https://github.com/amklenk/Team-Profile-Generator)
-- [Walkthrough Video Link](https://drive.google.com/file/d/1Fj4wTc_1ZEU2ECtfpXfdbUQ0fyzAE-wy/view?usp=sharing)
+- [GitHub Repository](https://github.com/Craig-JH/Team-Profile-Generator)
+- [Walkthrough Video Link](https://drive.google.com/file/d/15tz1N41lroNh_hbYO7y4CfxUMDhp6qkh/view)
 
 ## Usage
 
 The following images are project screenshots.
 
-CLI App
-![CLI image](./images/commandline.png)
+Example of failed test
+![Failed Test Image](./images/Employee_test_FAIL.png)
 
-Example of a Generated HTML File
-![Example HTML File](./images/HTML.png)
+Example of passed test
+![Passed Test Image](./images/Employee_test_PASS.png)
 
 Screenshot of the HTML File Opened in the Browser
-![Example Deployed HTML](./images/site.png)
+![Example Deployed HTML](./images/Screenshot_HTML.png)
 
 The application is navigable via opening the index.js file in an integrated terminal. All of the user data is entered using Inquirer prompts. The generated files will appear in the dist folder.
 
@@ -69,8 +69,6 @@ Please fork and clone the repository and use a pull request to add or make chang
 
 Please direct any questions to misccorp@yahoo.com. To see more projects, visit the link below for Craig-JH respository:
 
-- [GitHub Repository](https://github.com/Craig-JH)
-
-# Team-Profile-Generator
+- [GitHub Repository](https://github.com/Craig-JH/Team-Profile-Generator)
 
 # Team-Profile-Generator
