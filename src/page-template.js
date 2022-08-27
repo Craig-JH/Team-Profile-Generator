@@ -1,5 +1,5 @@
 function generateHTML(teamArray) {
-  let cardSection = "";
+  let cardSection = ""
   for (var i = 0; i < teamArray.length; i++) {
     let employee = teamArray[i];
     let role = employee.getRole();
@@ -63,7 +63,7 @@ function generateHTML(teamArray) {
     </head>
 
     <header>
-        <h1 class="title text-left ml-5 py-2 font-weight-bolder"> <span class="icon" id="header-icon"><i class="fa-solid fa-people-group"></span> My Team</h1>
+        <h1 class="title text-left ml-5 py-2 font-weight-bold"> <span class="icon" id="header-icon"><i class="fa-solid fa-people-group"></i></span> My Team</h1>
     </header>
 
     <main class="container mt-5">
