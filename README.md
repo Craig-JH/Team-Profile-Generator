@@ -38,7 +38,7 @@ The .gitignore file is set up in the root directory along with the index.js file
 ## Links
 
 - [GitHub Repository](https://github.com/Craig-JH/Team-Profile-Generator)
-- [Walkthrough Video Link](https://drive.google.com/file/d/1Fj4wTc_1ZEU2ECtfpXfdbUQ0fyzAE-wy/view?usp=sharing)
+- [Walkthrough Video Link](https://drive.google.com/file/d/15tz1N41lroNh_hbYO7y4CfxUMDhp6qkh/view)
 
 ## Usage
 
